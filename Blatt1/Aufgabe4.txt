@@ -1,0 +1,7 @@
+1: False. A und B werden vergleicht.
+2: True. A und (B-19) werden vergleicht.
+3: 45. Logisches oder (bitweise) zwischen A und B durchgeführt.
+4: 45. sieh 3: und am ende a+1.
+5: 28. 7 wird wird um (c+1) bit nach links verschoben mit und am ende werden nulen hinzugefügt.
+6: 16. A, B, C erhalten hexadezimales Wert 0x10. Hexadetimales 10 ist 16 in dezimal.
+7: 10.0. 1*10^1 gerechnet. e ist eine Exponentenanzeige von FloatingPointLiteral.
